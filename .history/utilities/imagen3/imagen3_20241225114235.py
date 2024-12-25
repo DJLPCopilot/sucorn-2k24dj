@@ -5,7 +5,9 @@ single image case, hard to see for those more than 1
 {
     "imagePanels": [
         {
-        "prompt": "Anime, Black-haired light-skinned young man  wearing Christmas clothes riding and bouncing on a large Christmas hopper ball alongside a blonde-haired woman wearing Christmas pajamas, also riding and bouncing on a matching large christmas hopper ball.",
+        "prompt": "
+Anime, Black-haired light-skinned young man  wearing Christmas clothes riding and bouncing on a large Christmas hopper ball alongside a blonde
+-haired woman wearing Christmas pajamas, also riding and bouncing on a matching large hopper ball.",
         "generatedImages": [
             {
             "encodedImage": "",
