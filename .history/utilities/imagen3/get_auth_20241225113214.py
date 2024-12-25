@@ -1,4 +1,3 @@
-import http
 import os
 import argparse
 import requests
