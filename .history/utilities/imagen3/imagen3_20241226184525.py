@@ -5,7 +5,7 @@ single image case, hard to see for those more than 1
 {
     "imagePanels": [
         {
-        "prompt":"2-D anime Blonde wife and black haired lightskin husband riding on giant hopper balls in a trampoline room",
+        "prompt": .",
         "generatedImages": [
             {
             "encodedImage": "",
