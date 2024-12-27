@@ -5,7 +5,7 @@ single image case, hard to see for those more than 1
 {
     "imagePanels": [
         {
-        "prompt":"Anime artstyle (JAPAN): Blonde wife and a lightskin, white skinned & black haired husband riding on giant hopper balls in a trampoline room",
+P): Blonde wife and a lightskin, white skinned & black haired husband riding on giant hopper balls in a trampoline room",
         "generatedImages": [
             {
             "encodedImage": "",
